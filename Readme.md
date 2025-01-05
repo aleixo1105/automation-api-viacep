@@ -50,7 +50,11 @@ A estrutura do projeto é organizada da seguinte maneira:
 
 # Executando os Testes
 
-    Enviar o comando "Cucumber" na raiz do projeto
+ Enviar o comando na raiz do projeto
+```bash
+Cucumber
+```
+    
 
 
 Feature: VIACEP
