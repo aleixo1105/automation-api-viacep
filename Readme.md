@@ -64,3 +64,5 @@ Feature: VIACEP
     Then the logradouro should be "Praça da Sé"
     Then the DDD should be "11"
 ```
+![Screenshot 2025-01-05 071815](https://github.com/user-attachments/assets/63d57686-ad3b-4eeb-94c0-d53611d7b71c)
+
