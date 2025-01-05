@@ -33,7 +33,7 @@ Se não tiver o Ruby instalado, baixe e instale a versão mais recente do site o
 
 A estrutura do projeto é organizada da seguinte maneira:
 
-.
+```
 ├── features
 │   ├── api.feature               # Arquivo de feature Cucumber com os cenários de teste
 │   └── step_definitions
@@ -46,7 +46,7 @@ A estrutura do projeto é organizada da seguinte maneira:
 │   └── api_spec.rb               # Testes adicionais com RSpec
 ├── Gemfile                       # Arquivo que define as dependências do projeto
 └── README.md                     # Documentação do projeto
-
+```
 
 # Executando os Testes
 
